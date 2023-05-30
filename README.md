@@ -1,2 +1,2 @@
 # Description
-Small, funny aimtrainer-like game :)
+Small, funny, aimtrainer-like game :)
